@@ -3,8 +3,8 @@ from telegram.ext import *
 import responses
 
 
-# hello
-API_KEY = '2049041005:AAE6ZqDS6DMtCjJEoqGQCqtnJbS0oDL0Aag'
+# The Telegram Bot API_KEY
+API_KEY = ''
 
 # Set up the logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)

@@ -20,7 +20,7 @@ def get_response(message):
 
 
 
-## Requistemts
+## Requirements
 
 API key from Telegram
 
